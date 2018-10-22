@@ -1,0 +1,17 @@
+[server]
+timezone = America/Chicago
+timestamp_format = 01/02/06 15:04:05.000
+
+[request]
+socket_file = /tmp/fdp_odc_ws.sock
+message_delimiter = |
+
+[workers]
+number = 6
+socket_name = workers
+failure_timeout = 5
+failure_threshold = 5
+
+[log]
+file = log.log
+error_log = error.log

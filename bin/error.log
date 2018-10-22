@@ -1,0 +1,4 @@
+ -!!- [03/16/18 14:12:43.346] |Worker-1| died: runtime error: index out of range [FileDaemon.(*Worker).doCopy:364]
+ -!!- [03/16/18 14:13:08.367] |Worker-0| died: runtime error: index out of range [FileDaemon.(*Worker).doCopy:364]
+ -!!- [03/16/18 14:33:36.190] |Worker-5| died: runtime error: invalid memory address or nil pointer dereference [FileDaemon.Worker.executeChmod:262]
+ -!!- [03/16/18 14:34:12.511] |Worker-2| died: runtime error: invalid memory address or nil pointer dereference [FileDaemon.Worker.executeChmod:262]

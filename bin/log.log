@@ -1,0 +1,207 @@
+[03/16/18 14:12:01.985] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:12:01.985] |Worker-0| online and listening
+ -- [03/16/18 14:12:01.985] |Worker-3| online and listening
+ -- [03/16/18 14:12:01.985] |Worker-5| online and listening
+ -- [03/16/18 14:12:01.985] |Worker-1| online and listening
+ -- [03/16/18 14:12:01.985] |Worker-2| online and listening
+ -- [03/16/18 14:12:01.985] |Worker-4| online and listening
+ -- [03/16/18 14:12:43.346] |Worker-1| retired!
+ -- [03/16/18 14:12:43.346] |Worker-6| online and listening
+ -- [03/16/18 14:13:08.367] |Worker-0| retired!
+ -- [03/16/18 14:13:08.367] |Worker-7| online and listening
+[03/16/18 14:14:20.338] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:14:20.338] |Worker-1| online and listening
+ -- [03/16/18 14:14:20.339] |Worker-0| online and listening
+ -- [03/16/18 14:14:20.431] |Worker-4| online and listening
+ -- [03/16/18 14:14:20.339] |Worker-2| online and listening
+ -- [03/16/18 14:14:20.431] |Worker-5| online and listening
+ -- [03/16/18 14:14:20.431] |Worker-3| online and listening
+[03/16/18 14:20:28.936] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:20:28.936] |Worker-1| online and listening
+ -- [03/16/18 14:20:28.936] |Worker-3| online and listening
+ -- [03/16/18 14:20:29.015] |Worker-4| online and listening
+ -- [03/16/18 14:20:28.936] |Worker-2| online and listening
+ -- [03/16/18 14:20:29.015] |Worker-5| online and listening
+ -- [03/16/18 14:20:29.015] |Worker-0| online and listening
+ -- [03/16/18 14:20:51.805] |Worker-3| retired!
+[03/16/18 14:20:51.805] Server Shutdown Detected
+[03/16/18 14:27:25.001] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:27:25.019] |Worker-2| online and listening
+ -- [03/16/18 14:27:25.019] |Worker-1| online and listening
+ -- [03/16/18 14:27:25.067] |Worker-3| online and listening
+ -- [03/16/18 14:27:25.019] |Worker-4| online and listening
+ -- [03/16/18 14:27:25.067] |Worker-0| online and listening
+ -- [03/16/18 14:27:25.067] |Worker-5| online and listening
+ -- [03/16/18 14:27:38.305] |Worker-1| doing chmod request
+ -- [03/16/18 14:27:38.305] |Worker-1| not recursive
+ -- [03/16/18 14:27:38.305] |Worker-1| trying nfs4
+ -- [03/16/18 14:27:38.305] |Worker-1| not nfs4
+ -- [03/16/18 14:27:38.305] |Worker-1| not nfs4 msg
+ -- [03/16/18 14:27:38.305] |Worker-1| unsetting nfs4
+ -- [03/16/18 14:27:38.305] |Worker-1| is not nfs4
+ -- [03/16/18 14:27:38.305] |Worker-1| regular chmod
+[03/16/18 14:29:31.715] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:29:31.715] |Worker-1| online and listening
+ -- [03/16/18 14:29:31.715] |Worker-0| online and listening
+ -- [03/16/18 14:29:31.715] |Worker-3| online and listening
+ -- [03/16/18 14:29:31.715] |Worker-5| online and listening
+ -- [03/16/18 14:29:31.715] |Worker-4| online and listening
+ -- [03/16/18 14:29:31.716] |Worker-2| online and listening
+ -- [03/16/18 14:29:36.534] |Worker-1| doing chmod request
+ -- [03/16/18 14:29:36.534] |Worker-1| not recursive
+ -- [03/16/18 14:29:36.534] |Worker-1| trying nfs4
+ -- [03/16/18 14:29:36.534] |Worker-1| not nfs4
+ -- [03/16/18 14:29:36.534] |Worker-1| not nfs4 msg
+ -- [03/16/18 14:29:36.534] |Worker-1| unsetting nfs4
+ -- [03/16/18 14:29:36.534] |Worker-1| is not nfs4
+ -- [03/16/18 14:29:36.534] |Worker-1| regular chmod: /root/go/src/FileDaemon/bin/FileDaemon.go|Ĥ
+ -- [03/16/18 14:30:06.225] |Worker-0| doing chmod request
+ -- [03/16/18 14:30:06.225] |Worker-0| not recursive
+ -- [03/16/18 14:30:06.225] |Worker-0| trying nfs4
+ -- [03/16/18 14:30:06.225] |Worker-0| not nfs4
+ -- [03/16/18 14:30:06.225] |Worker-0| not nfs4 msg
+ -- [03/16/18 14:30:06.225] |Worker-0| unsetting nfs4
+ -- [03/16/18 14:30:06.225] |Worker-0| is not nfs4
+ -- [03/16/18 14:30:06.225] |Worker-0| regular chmod: /root/go/src/FileDaemon/bin/FileDaemon.go|ŭ
+ -- [03/16/18 14:30:30.305] |Worker-3| doing chmod request
+ -- [03/16/18 14:30:30.306] |Worker-3| not recursive
+ -- [03/16/18 14:30:30.306] |Worker-3| trying nfs4
+ -- [03/16/18 14:30:30.306] |Worker-3| not nfs4
+ -- [03/16/18 14:30:30.306] |Worker-3| not nfs4 msg
+ -- [03/16/18 14:30:30.306] |Worker-3| unsetting nfs4
+ -- [03/16/18 14:30:30.306] |Worker-3| is not nfs4
+ -- [03/16/18 14:30:30.306] |Worker-3| regular chmod: /root/go/src/FileDaemon/bin/FileDaemon.go|Ĥ
+ -- [03/16/18 14:33:36.189] |Worker-5| doing chmod request
+ -- [03/16/18 14:33:36.190] |Worker-5| recursive
+ -- [03/16/18 14:33:36.190] |Worker-5| trying nfs4
+ -- [03/16/18 14:33:36.190] |Worker-5| not nfs4
+ -- [03/16/18 14:33:36.190] |Worker-5| not nfs4 msg
+ -- [03/16/18 14:33:36.190] |Worker-5| unsetting nfs4
+ -- [03/16/18 14:33:36.190] |Worker-5| is not nfs4
+ -- [03/16/18 14:33:36.190] |Worker-5| additive chmod
+ -- [03/16/18 14:33:36.190] |Worker-5| not nfs4
+ -- [03/16/18 14:33:36.190] |Worker-5| retired!
+ -- [03/16/18 14:33:36.190] |Worker-6| online and listening
+[03/16/18 14:34:07.675] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:34:07.675] |Worker-4| online and listening
+ -- [03/16/18 14:34:07.675] |Worker-0| online and listening
+ -- [03/16/18 14:34:07.676] |Worker-1| online and listening
+ -- [03/16/18 14:34:07.676] |Worker-3| online and listening
+ -- [03/16/18 14:34:07.675] |Worker-2| online and listening
+ -- [03/16/18 14:34:07.723] |Worker-5| online and listening
+ -- [03/16/18 14:34:12.510] |Worker-2| doing chmod request
+ -- [03/16/18 14:34:12.510] |Worker-2| recursive
+ -- [03/16/18 14:34:12.510] |Worker-2| trying nfs4
+ -- [03/16/18 14:34:12.510] |Worker-2| not nfs4
+ -- [03/16/18 14:34:12.510] |Worker-2| not nfs4 msg
+ -- [03/16/18 14:34:12.510] |Worker-2| unsetting nfs4
+ -- [03/16/18 14:34:12.510] |Worker-2| is not nfs4
+ -- [03/16/18 14:34:12.510] |Worker-2| additive chmod
+ -- [03/16/18 14:34:12.510] |Worker-2| not nfs4
+ -- [03/16/18 14:34:12.511] |Worker-2| retired!
+ -- [03/16/18 14:34:12.511] |Worker-6| online and listening
+[03/16/18 14:35:44.673] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:35:44.673] |Worker-0| online and listening
+ -- [03/16/18 14:35:44.719] |Worker-1| online and listening
+ -- [03/16/18 14:35:44.673] |Worker-4| online and listening
+ -- [03/16/18 14:35:44.719] |Worker-5| online and listening
+ -- [03/16/18 14:35:44.673] |Worker-2| online and listening
+ -- [03/16/18 14:35:44.719] |Worker-3| online and listening
+ -- [03/16/18 14:35:49.117] |Worker-2| doing chmod request
+ -- [03/16/18 14:35:49.117] |Worker-2| recursive
+ -- [03/16/18 14:35:49.117] |Worker-2| trying nfs4
+ -- [03/16/18 14:35:49.117] |Worker-2| not nfs4
+ -- [03/16/18 14:35:49.117] |Worker-2| not nfs4 msg
+ -- [03/16/18 14:35:49.117] |Worker-2| unsetting nfs4
+ -- [03/16/18 14:35:49.117] |Worker-2| is not nfs4
+ -- [03/16/18 14:35:49.117] |Worker-2| additive chmod
+ -- [03/16/18 14:35:49.117] |Worker-2| not nfs4
+ -- [03/16/18 14:35:49.117] |Worker-2| is not nfs4
+ -- [03/16/18 14:35:49.117] |Worker-2| additive chmod
+ -- [03/16/18 14:35:49.117] |Worker-2| not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| is not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| additive chmod
+ -- [03/16/18 14:35:49.118] |Worker-2| not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| is not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| additive chmod
+ -- [03/16/18 14:35:49.118] |Worker-2| not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| is not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| additive chmod
+ -- [03/16/18 14:35:49.118] |Worker-2| not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| is not nfs4
+ -- [03/16/18 14:35:49.118] |Worker-2| additive chmod
+ -- [03/16/18 14:36:47.036] |Worker-4| doing chmod request
+ -- [03/16/18 14:36:47.036] |Worker-4| recursive
+ -- [03/16/18 14:36:47.036] |Worker-4| trying nfs4
+ -- [03/16/18 14:36:47.036] |Worker-4| not nfs4
+ -- [03/16/18 14:36:47.036] |Worker-4| not nfs4 msg
+ -- [03/16/18 14:36:47.036] |Worker-4| unsetting nfs4
+ -- [03/16/18 14:36:47.036] |Worker-4| is not nfs4
+ -- [03/16/18 14:36:47.036] |Worker-4| regular chmod: /root/go/src/FileDaemon/bin|Ĥ
+ -- [03/16/18 14:36:47.037] |Worker-4| not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| is not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| regular chmod: /root/go/src/FileDaemon/bin/log.log|Ĥ
+ -- [03/16/18 14:36:47.037] |Worker-4| not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| is not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| regular chmod: /root/go/src/FileDaemon/bin/error.log|Ĥ
+ -- [03/16/18 14:36:47.037] |Worker-4| not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| is not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| regular chmod: /root/go/src/FileDaemon/bin/default.ini|Ĥ
+ -- [03/16/18 14:36:47.037] |Worker-4| not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| is not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| regular chmod: /root/go/src/FileDaemon/bin/FileDaemon|Ĥ
+ -- [03/16/18 14:36:47.037] |Worker-4| not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| is not nfs4
+ -- [03/16/18 14:36:47.037] |Worker-4| regular chmod: /root/go/src/FileDaemon/bin/FileDaemon.go|Ĥ
+ -- [03/16/18 14:37:48.699] |Worker-0| doing chmod request
+ -- [03/16/18 14:37:48.699] |Worker-0| not recursive
+ -- [03/16/18 14:37:48.699] |Worker-0| trying nfs4
+ -- [03/16/18 14:37:48.699] |Worker-0| not nfs4
+ -- [03/16/18 14:37:48.699] |Worker-0| not nfs4 msg
+ -- [03/16/18 14:37:48.699] |Worker-0| unsetting nfs4
+ -- [03/16/18 14:37:48.699] |Worker-0| is not nfs4
+ -- [03/16/18 14:37:48.699] |Worker-0| regular chmod: /root/go/src/FileDaemon/bin/FileDaemon|ŭ
+[03/16/18 14:44:20.404] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:44:20.404] |Worker-1| online and listening
+ -- [03/16/18 14:44:20.452] |Worker-3| online and listening
+ -- [03/16/18 14:44:20.452] |Worker-0| online and listening
+ -- [03/16/18 14:44:20.452] |Worker-2| online and listening
+ -- [03/16/18 14:44:20.452] |Worker-4| online and listening
+ -- [03/16/18 14:44:20.452] |Worker-5| online and listening
+[03/16/18 14:45:31.681] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:45:31.681] |Worker-2| online and listening
+ -- [03/16/18 14:45:31.731] |Worker-0| online and listening
+ -- [03/16/18 14:45:31.731] |Worker-3| online and listening
+ -- [03/16/18 14:45:31.731] |Worker-4| online and listening
+ -- [03/16/18 14:45:31.731] |Worker-5| online and listening
+ -- [03/16/18 14:45:31.731] |Worker-1| online and listening
+[03/16/18 14:48:56.359] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:48:56.359] |Worker-1| online and listening
+ -- [03/16/18 14:48:56.359] |Worker-4| online and listening
+ -- [03/16/18 14:48:56.359] |Worker-2| online and listening
+ -- [03/16/18 14:48:56.359] |Worker-3| online and listening
+ -- [03/16/18 14:48:56.360] |Worker-0| online and listening
+ -- [03/16/18 14:48:56.415] |Worker-5| online and listening
+[03/16/18 14:51:27.406] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:51:27.406] |Worker-2| online and listening
+ -- [03/16/18 14:51:27.406] |Worker-0| online and listening
+ -- [03/16/18 14:51:27.406] |Worker-3| online and listening
+ -- [03/16/18 14:51:27.406] |Worker-1| online and listening
+ -- [03/16/18 14:51:27.406] |Worker-4| online and listening
+ -- [03/16/18 14:51:27.406] |Worker-5| online and listening
+ -- [03/16/18 14:51:29.369] |Worker-2| doing: cp    /root/go/src/FileDaemon/bin/default.ini /root/go/src/FileDaemon/bin/default.ini.bak
+[03/16/18 14:52:13.933] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:52:13.933] |Worker-3| online and listening
+ -- [03/16/18 14:52:13.933] |Worker-1| online and listening
+ -- [03/16/18 14:52:13.933] |Worker-4| online and listening
+ -- [03/16/18 14:52:13.933] |Worker-0| online and listening
+ -- [03/16/18 14:52:13.933] |Worker-2| online and listening
+ -- [03/16/18 14:52:13.933] |Worker-5| online and listening
+ -- [03/16/18 14:52:16.474] |Worker-2| doing: cp /root/go/src/FileDaemon/bin/default.ini /root/go/src/FileDaemon/bin/default.ini.bak
+[03/16/18 14:57:08.045] Server Online - ipc:///tmp/fdp_odc_ws.sock - Loaded 6 Workers
+ -- [03/16/18 14:57:08.045] |Worker-3| online and listening
+ -- [03/16/18 14:57:08.045] |Worker-4| online and listening
+ -- [03/16/18 14:57:08.045] |Worker-0| online and listening
+ -- [03/16/18 14:57:08.045] |Worker-5| online and listening
+ -- [03/16/18 14:57:08.045] |Worker-2| online and listening
+ -- [03/16/18 14:57:08.082] |Worker-1| online and listening
